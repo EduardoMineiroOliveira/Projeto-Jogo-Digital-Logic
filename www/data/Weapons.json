@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":2,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":3,"animationId":0,"description":"Arma Inicial.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":96,"name":"Adaga de Prata","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":4,"animationId":0,"description":"Queima o gelo criado pelos Demônios.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":64,"name":"Fogo da Sabedoria","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":5,"animationId":7,"description":"Espada utilizada para destruir C.A.O.S.","etypeId":1,"traits":[{"code":31,"dataId":8,"value":0},{"code":22,"dataId":0,"value":0},{"code":31,"dataId":2,"value":0}],"iconIndex":112,"name":"Espada do Antívirus","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":6,"animationId":12,"description":"Arma de Métis.","etypeId":1,"traits":[{"code":31,"dataId":8,"value":0},{"code":22,"dataId":0,"value":0},{"code":31,"dataId":7,"value":0}],"iconIndex":102,"name":"Arco de Métis","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":7},
+{"id":7,"animationId":14,"description":"Arma de GAIA.","etypeId":1,"traits":[{"code":31,"dataId":8,"value":0},{"code":22,"dataId":0,"value":0},{"code":31,"dataId":3,"value":0}],"iconIndex":108,"name":"Cajado de G.A.I.A","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":6},
+{"id":8,"animationId":0,"description":"Arma de Urano.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":122,"name":"Foice de Urano","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":4},
+{"id":9,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]

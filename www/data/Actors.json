@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Luta_mulher","characterIndex":0,"characterName":"Andando_mulher","classId":1,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Rosto_mulher_feliz","traits":[],"initialLevel":1,"maxLevel":5,"name":"Elfa","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Luta_homem","characterIndex":0,"characterName":"Andando_homem","classId":1,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Rosto_homem_feliz","traits":[],"initialLevel":1,"maxLevel":5,"name":"Elfo","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Luta","characterIndex":0,"characterName":"Andando_gaia","classId":3,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"gaia (4)","traits":[],"initialLevel":5,"maxLevel":5,"name":"G.A.I.A","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"met_luta","characterIndex":4,"characterName":"Nature","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"metis_bat","traits":[],"initialLevel":5,"maxLevel":5,"name":"Métis","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"urano","characterIndex":0,"characterName":"urano","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"urano","traits":[],"initialLevel":1,"maxLevel":5,"name":"Urano","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"urano2","characterIndex":0,"characterName":"urano2","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"urano_fim","traits":[],"initialLevel":5,"maxLevel":5,"name":"Urano","nickname":"","note":"","profile":""}
+]

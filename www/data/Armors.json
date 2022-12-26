@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"atypeId":0,"description":"Proteje seu corpo físico contra a corrupção.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Barreira Digital","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":2,"atypeId":0,"description":"Proteje seu corpo físico contra Orcs.","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Byte","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":3,"atypeId":0,"description":"Proteje seu corpo físico contra Esqueletos.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":143,"name":"Mega","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":4,"atypeId":0,"description":"Proteje seu corpo físico contra o Gelo.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":141,"name":"Giga","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":5,"atypeId":0,"description":"Capa utilizada para derrotar C.A.O.S.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":139,"name":"Capa do Antivírus","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
