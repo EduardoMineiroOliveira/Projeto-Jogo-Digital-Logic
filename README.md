@@ -1,6 +1,6 @@
 UM JOGO RPG PARA O ENSINO DE LÓGICA COMPUTACIONAL
 
-
+Disponivel em: https://digitallogicgame.blogspot.com/
 
 
 Digital Logic é um jogo educativo que tem por objetivo auxiliar no estudo da Lógica Computacional. Nele, o jogador conhece G.A.IA (Gerenciadora Autônoma da Inteligência Artificial), a inteligência artificial responsável por manter o equilíbrio e a saúde do mundo digital. Ela foi sequestrada pelo terrível vilão C.A.O.S (Centro de Aniquilação dos Órgãos Sistêmicos) que espalhou a desordem e corrupção virtual, e conta com a ajuda do jogador para derrotá-lo e restaurar a paz e a ordem.
